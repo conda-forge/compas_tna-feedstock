@@ -1,11 +1,11 @@
-About compas_tna
-================
+About compas_tna-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/compas_tna-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/BlockResearchGroup/compas_tna
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/compas_tna-feedstock/blob/main/LICENSE.txt)
 
 Summary: COMPAS package for Thrust Network Analaysis. This package provides the base implementation of TNA. For a RhinoVault-style user interface and workflow, see compas-RV2.
 
@@ -99,7 +99,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
@@ -147,6 +147,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@brgcode](https://github.com/brgcode/)
 * [@licini](https://github.com/licini/)
+* [@tomvanmele](https://github.com/tomvanmele/)
 

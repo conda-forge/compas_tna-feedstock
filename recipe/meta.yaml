@@ -1,5 +1,5 @@
 {% set name = "compas_tna" %}
-{% set version = "0.2.0" %}
+{% set version = "0.5.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,11 +7,11 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: d965b8ce485a9f1b0b976b0acf7391fac3af9b4617c612b5b4de5bb5c505da9c
+  sha256: a1e0ade26f44eec90a73324ea449653e5073a9735be2a0949bf1e8fbecdde0eb
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: {{ PYTHON }} -m pip install . --ignore-installed --no-cache-dir -vvv
 
 requirements:
