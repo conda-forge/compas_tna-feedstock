@@ -31,7 +31,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-compas_tna-green.svg)](https://anaconda.org/conda-forge/compas_tna) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/compas_tna.svg)](https://anaconda.org/conda-forge/compas_tna) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/compas_tna.svg)](https://anaconda.org/conda-forge/compas_tna) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/compas_tna.svg)](https://anaconda.org/conda-forge/compas_tna) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-compas__tna-green.svg)](https://anaconda.org/conda-forge/compas_tna) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/compas_tna.svg)](https://anaconda.org/conda-forge/compas_tna) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/compas_tna.svg)](https://anaconda.org/conda-forge/compas_tna) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/compas_tna.svg)](https://anaconda.org/conda-forge/compas_tna) |
 
 Installing compas_tna
 =====================
